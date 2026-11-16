@@ -68,4 +68,3 @@ run.sh / run.bat   Cross-platform runner
 
 ---
 
-Four languages. One contract. No surprises.
